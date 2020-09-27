@@ -190,7 +190,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |语法|效果|
 |---|---|
-|`[回到顶部](#readme)`|[回到顶部](#readme)|
+|`[回到顶部](#readme)`|[回到顶部](#链接外部URL)|
 
 不过要注意，标题中的英文字母都被转化为**小写字母**了。
 > 以前GitHub对中文支持的不好，所以中文标题不能正确识别为锚点，但是现在已经没问题啦！
