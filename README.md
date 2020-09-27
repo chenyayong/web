@@ -202,8 +202,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 #### 效果
 * 昵称：果冻虾仁
-* 别名：隔壁老王
-* 英文名：Jelly
+*别名：隔壁老王
+*英文名：Jelly
 
 ### 多级无序列表
 #### 语法
